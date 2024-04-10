@@ -1,3 +1,5 @@
+# LINUX COMMAND TO MANAGE FILE PERMISSIONS
+
 # Review the scenario below. Then, complete the step-by-step instructions.
 
 # You are a security professional at a large organization. You mainly work with their research team. Part of your job is to ensure users on this team are authorized with the appropriate permissions. This helps keep the system secure. 
